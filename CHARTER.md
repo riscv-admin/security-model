@@ -1,4 +1,4 @@
-# Security Model SIG Charter
+# Security Model TG Charter
 
 RISC-V is lacking documentation that provides security guidance for RISC-V designers and implementers. The Security Model TG will create a specification that outlines requirements and recommendations for RISC-V based platforms.
 
